@@ -1,2 +1,3 @@
 # Bootstrap
- Iniciando com bootstrap 
+ Iniciando com bootstra
+ Projeto simples de web site utilizando bootstrap
